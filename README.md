@@ -50,7 +50,7 @@ Este bot oferece um ponto de partida sólido para desenvolver aplicativos mais c
 4. **Inicie o Bot:**
    - Execute o bot do Telegram iniciando-o com o seguinte comando:
     ```bash
-    node start
+    npm start
     ```
 
 5. **Interagindo com o Bot:**
