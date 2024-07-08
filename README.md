@@ -38,7 +38,7 @@ Este bot oferece um ponto de partida sólido para desenvolver aplicativos mais c
    - Antes de executar o bot, é necessário importar o arquivo `CODIGO/DATABASE.sql`.
 
 2. **Editar o código:**
-   - Certifique-se de substituir "seu_token", "localhost", "seu_usuario" e "sua_senha" pelas informações corretas das suas credenciais no `CODIGO/.env`.
+   - Certifique-se de substituir "seu_token" (O qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather)), "localhost", "seu_usuario" e "sua_senha" pelas informações corretas das suas credenciais no `CODIGO/.env`.
 
 3. **Instalando as Depêndencias:**
    - Para instalar as dependências listadas no arquivo "package.json", você pode usar o comando `npm install` no terminal. Certifique-se de estar no diretório do seu projeto onde o arquivo "package.json" está localizado (`CODIGO`). O npm irá ler o arquivo "package.json" e instalar todas as dependências listadas nele. 
